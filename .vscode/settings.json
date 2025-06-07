@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/osrf_pycommon",
+        "/root/ros2_humble/install/osrf_pycommon/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_pyflakes",
+        "/root/ros2_humble/install/ament_pyflakes/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_pycodestyle",
+        "/root/ros2_humble/install/ament_pycodestyle/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_package",
+        "/root/ros2_humble/install/ament_package/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_flake8",
+        "/root/ros2_humble/install/ament_flake8/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_lint",
+        "/root/ros2_humble/install/ament_lint/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_cppcheck",
+        "/root/ros2_humble/install/ament_cppcheck/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/osrf_pycommon",
+        "/root/ros2_humble/install/osrf_pycommon/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_pyflakes",
+        "/root/ros2_humble/install/ament_pyflakes/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_pycodestyle",
+        "/root/ros2_humble/install/ament_pycodestyle/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_package",
+        "/root/ros2_humble/install/ament_package/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_flake8",
+        "/root/ros2_humble/install/ament_flake8/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_lint",
+        "/root/ros2_humble/install/ament_lint/lib/python3.10/site-packages",
+        "/root/ros2_humble/build/ament_cppcheck",
+        "/root/ros2_humble/install/ament_cppcheck/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
